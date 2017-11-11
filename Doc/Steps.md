@@ -23,5 +23,5 @@
 
 
 ### Explanation
-*Step 1.b: Foi separado em dois respositórios, utilizando portas diferentes. Onde o cliente passou a escutar na porta 8090, e o pedido na porta 8081. Como ambos já estava se comunicando através de uma API rest, então apenas separamos os códigos, os colocando em repositórios diferentes.
+* Step 1.b: Foi separado em dois respositórios, utilizando portas diferentes. Onde o cliente passou a escutar na porta 8090, e o pedido na porta 8081. Como ambos já estava se comunicando através de uma API rest, então apenas separamos os códigos, os colocando em repositórios diferentes.
 
